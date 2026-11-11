@@ -8,7 +8,7 @@ desktop view + 80~67% zoom level recommended
 <div align="left">
     <a href="https://en.wikipedia.org/wiki/Damon_Albarn">
         <!-- i dont know whats the purpose of the wikipedia since most may not notice but i guess -->
-        <img width="380" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
+        <img width="380" alt="HWsZBClbMAAzxSg" src="https://github.com/user-attachments/assets/d2b05f8b-6a0f-4b47-b07c-fde2b8e8d87f" align="left" />
     </a>
 </div>
 <div align="right">
@@ -16,7 +16,7 @@ desktop view + 80~67% zoom level recommended
         <tr>
             <td>
                 <div align="center">
-                    <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+                    <img width="345" src="https://github.com/metafilibuster/METAFILIBUSTER/blob/main/resources/images/ladewdew.gif" alt="green_border1" />
                 </div>
             </td>
         </tr>
@@ -48,17 +48,17 @@ desktop view + 80~67% zoom level recommended
                     ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀ ⠀𓎢}}}$ 𓎟 ${\color{#c0f545}{\textsf{𓎡}}}$ ⠀♪   ͜͝ ${\color{#c0f545}{\textsf{࿐}}}$
                     <br>
                     <kbd>
-                        <a href="https://lgbtqia.wiki/wiki/Non-Binary"><img width="53" src="resources/images/nonbinary.png" /></a>
-                        <a href="https://lgbtqia.wiki/wiki/Dysphoric"><img width="53" src="resources/images/dysphoria.png" /></a>
-                        <a href="https://lgbtqia.wiki/wiki/Bisexual"><img width="53" src="resources/images/bisexual.png" /></a>
+                        <a href="https://lgbtqia.wiki/wiki/Non-Binary"><img width="53" src="https://github.com/user-attachments/assets/bbed3e08-bdcb-41ad-8650-943935358ccf" /></a>
+                        <a href="https://lgbtqia.wiki/wiki/Dysphoric"><img width="53" src="https://github.com/user-attachments/assets/d9734176-ca64-4529-ad7f-eab2255f5093" /></a>
+                        <a href="https://lgbtqia.wiki/wiki/Bisexual"><img width="53" src="https://github.com/user-attachments/assets/392f4cb7-a8d5-4ae5-9349-c04d66363666" /></a>
                     </kbd>
                     <br>
                     ${\color{#c0f545}{\textsf{། ͝ ꒹　𓏫　　ּ〪⠀⠀⠀◟ ̣̣̥͜♫᭪ ˚̣̣̣♪}}}$
                     <br>
-                    <img src="resources/images/stamp1.gif" />
-                    <img src="resources/images/stamp2.gif" />
+                    <img src="https://github.com/metafilibuster/METAFILIBUSTER/blob/main/resources/images/stamp1.gif" />
+                    <img src="https://github.com/metafilibuster/METAFILIBUSTER/blob/main/resources/images/stamp2.gif" />
                     <br>
-                    <img width="200" src="resources/images/sparkle.jpg" />
+                    <img width="200" src="https://github.com/metafilibuster/METAFILIBUSTER/blob/main/resources/images/sparkle.jpg" />
                     <br>
                     ${\color{#c0f545}{\textsf{───────}}}$
                     <br>
@@ -69,7 +69,7 @@ desktop view + 80~67% zoom level recommended
         <tr>
             <td>
                 <div align="center">
-                    <img width="345" src="resources/images/ladewdew2.gif" alt="green_border2" />
+                    <img width="345" src="https://github.com/metafilibuster/METAFILIBUSTER/blob/main/resources/images/ladewdew2.gif" alt="green_border2" />
                 </div>
             </td>
         </tr>
