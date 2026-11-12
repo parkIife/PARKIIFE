@@ -18,7 +18,7 @@ desktop view + 80~67% zoom level recommended
         <tr>
             <td>
                 <div align="center">
-                    <img width="345" src="https://github.com/imyadogg/IMYADOGG/blob/main/resources/images/ladewdew.gif" alt="green_border1" />
+                    <img width="345" src="https://github.com/68state/68state/blob/main/resources/images/ladewdew.gif" alt="green_border1" />
                 </div>
             </td>
         </tr>
@@ -29,7 +29,7 @@ desktop view + 80~67% zoom level recommended
                         <td>
                             <div align="center">
                                 <kbd>
-                                    <img src="https://github.com/imyadogg/IMYADOGG/blob/main/resources/images/mail.gif" />
+                                    <img src="https://github.com/68state/68state/blob/main/resources/images/mail.gif" />
                                     <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=ffffff&labelColor=aceb4f&logo=leaflet" />
                                 </kbd>
                                 <br>
@@ -44,7 +44,7 @@ desktop view + 80~67% zoom level recommended
                     ⠀
                     ${\color{#c0f545}{\textsf{ ๋࣭⠀}}}$
                     ⠀𓈃⠀ ${\color{#c0f545}{\textsf{they}}}$ / ${\color{#c0f545}{\textsf{them}}}$ ⠀
-                    <img src="https://github.com/imyadogg/IMYADOGG/blob/main/resources/images/leaf.gif"/>
+                    <img src="https://github.com/68state/68state/blob/main/resources/images/leaf.gif"/>
                     ${\color{#c0f545}{\textsf{⠀ ͜͝ |}}}$
                     <br>
                     ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀ ⠀𓎢}}}$ 𓎟 ${\color{#c0f545}{\textsf{𓎡}}}$ ⠀♪   ͜͝ ${\color{#c0f545}{\textsf{࿐}}}$
@@ -57,10 +57,10 @@ desktop view + 80~67% zoom level recommended
                     <br>
                     ${\color{#c0f545}{\textsf{། ͝ ꒹　𓏫　　ּ〪⠀⠀⠀◟ ̣̣̥͜♫᭪ ˚̣̣̣♪}}}$
                     <br>
-                    <img src="https://github.com/imyadogg/IMYADOGG/blob/main/resources/images/stamp1.gif" />
-                    <img src="https://github.com/imyadogg/IMYADOGG/blob/main/resources/images/stamp2.gif" />
+                    <img src="https://github.com/68state/68state/blob/main/resources/images/stamp1.gif" />
+                    <img src="https://github.com/68state/68state/blob/main/resources/images/stamp2.gif" />
                     <br>
-                    <img width="200" src="https://github.com/imyadogg/IMYADOGG/blob/main/resources/images/sparkle.jpg" />
+                    <img width="200" src="https://github.com/68state/68state/blob/main/resources/images/sparkle.jpg" />
                     <br>
                     ${\color{#c0f545}{\textsf{───────}}}$
                     <br>
@@ -71,7 +71,7 @@ desktop view + 80~67% zoom level recommended
         <tr>
             <td>
                 <div align="center">
-                    <img width="345" src="https://github.com/imyadogg/IMYADOGG/blob/main/resources/images/ladewdew2.gif" alt="green_border2" />
+                    <img width="345" src="https://github.com/68state/68state/blob/main/resources/images/ladewdew2.gif" alt="green_border2" />
                 </div>
             </td>
         </tr>
